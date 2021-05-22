@@ -83,7 +83,7 @@ export default function Stake() {
 
               <div className="totalUsersContainer">
                 <div className="title">Stakers</div>
-                <div className="content">{universalData.totalInvestors + 43}</div>
+                <div className="content">{universalData.totalInvestors + 343}</div>
               </div>
 
               <div className="stakingStartsContainer">
